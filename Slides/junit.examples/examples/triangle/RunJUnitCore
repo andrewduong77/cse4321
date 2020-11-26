@@ -1,0 +1,6 @@
+#!/bin/bash
+export CLASSPATH=.:~/"Box Sync"/summer18/junit/examples/triangle:~/"Box Sync"/summer18/junit/junit-4.11.jar:~/"Box Sync"/summer18/junit/hamcrest-core-1.3.jar:$CLASSPATH
+echo $CLASSPATH
+#java org.junit.runner.JUnitCore TriangleClassifierTest
+java TriangleClassifierTest
+

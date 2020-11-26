@@ -1,0 +1,5 @@
+#!/bin/bash
+export CLASSPATH=.:~/"Box Sync"/summer17/4321/junit/examples/triangle:~/"Box Sync"/summer17/4321/junit/junit-4.11.jar:~/"Box Sync"/summer17/4321/junit/hamcrest-core-1.3.jar:$CLASSPATH
+echo $CLASSPATH
+java SuiteTest
+
