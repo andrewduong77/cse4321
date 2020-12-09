@@ -1,0 +1,1 @@
+To execute JUnit Code, drag and drop the Printtokens2Test.java file from this folder and drop it in the package in Eclipse.
